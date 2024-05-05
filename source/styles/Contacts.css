@@ -1,0 +1,135 @@
+
+
+.page-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  .left-panel-wrapper {
+    width:  50px;
+    background-color: rgb(230, 226, 218);
+  }
+  .right-panel-wrapper {
+    width: 50px;
+    background-color: rgb(230, 226, 218);
+    
+  }
+  .content-wrapper {
+    width: 1000px;
+    width: calc(100% - 5px);
+    padding: 0 30px;
+    background-color: white;
+    font-family: "commercialscript bt"
+  }
+
+
+ .right-panel {
+  padding-left: 10px;
+ }
+
+/*
+
+<p>&ltp&gt</p>
+
+
+*/
+
+.codeborder {
+  border-style: solid;
+}
+
+.htmlrazvetka {
+  background-color: rgb(44, 46, 48);
+}
+
+.code1 {
+  color:rgb(57, 142, 223)
+}
+
+.code2 {
+  color:rgb(98, 211, 211)
+}
+
+.code3 {
+  color:chocolate
+}
+
+.code0 {
+  color: rgb(207, 207, 195);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+main {
+    background-color:antiquewhite;
+}
+
+
+
+.accordion {
+    width: 1000px;
+    height: 1000px;
+    margin:0;
+    grid-column: 3/11;
+    
+}
+
+
+
+
+
+
+.text-main {
+    display: flex;
+    background-color: aliceblue;
+    border-style: solid;
+}
+
+.qwe {
+    display: flex;
+    margin-top: 30px;
+}
+
+.ewq {
+    margin-left: 20px;
+}
+
+.row {
+    width: 100px;
+    display: block;
+}
+
+/*
+.carysel {
+    display: flex;
+}
+*/
+
+.carousel-item {
+    display: inline-block;
+    width: 300px;
+    
+}
+
+.nav-item  {
+    display: block;
+    max-width: 200px;
+}
+
+.errrt {
+   display: block;
+    max-width: 200px;
+    background-color: aliceblue;
+}
+

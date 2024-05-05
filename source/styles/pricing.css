@@ -1,0 +1,60 @@
+/*  разделение страницы */
+.page-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  .left-panel-wrapper {
+    width:  50px;
+    background-color: rgb(230, 226, 218);
+  }
+  .right-panel-wrapper {
+    width: 900px;
+    background-color: rgb(230, 226, 218);
+    
+  }
+  .content-wrapper {
+    width: 400px;
+    width: calc(100% - 400px);
+    padding: 0 30px;
+    background-color: white;
+    font-family: "commercialscript bt"
+  }
+
+
+ .right-panel {
+  padding-left: 10px;
+ }
+
+/*
+
+<p>&ltp&gt</p>
+
+
+*/
+
+.codeborder {
+  border-style: solid;
+}
+
+.htmlrazvetka {
+  background-color: rgb(44, 46, 48);
+}
+
+.code1 {
+  color:rgb(57, 142, 223)
+}
+
+.code2 {
+  color:rgb(98, 211, 211)
+}
+
+.code3 {
+  color:chocolate
+}
+
+.code0 {
+  color: rgb(207, 207, 195);
+}
+
+
